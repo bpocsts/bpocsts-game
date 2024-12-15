@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/bpocsts-game/static/css/main.f855e6bc.css",
-    "main.js": "/bpocsts-game/static/js/main.590894cc.js",
+    "main.js": "/bpocsts-game/static/js/main.9e443fea.js",
     "static/js/488.a386afd3.chunk.js": "/bpocsts-game/static/js/488.a386afd3.chunk.js",
     "index.html": "/bpocsts-game/index.html",
-    "static/media/logo.svg": "/bpocsts-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "main.f855e6bc.css.map": "/bpocsts-game/static/css/main.f855e6bc.css.map",
-    "main.590894cc.js.map": "/bpocsts-game/static/js/main.590894cc.js.map",
+    "main.9e443fea.js.map": "/bpocsts-game/static/js/main.9e443fea.js.map",
     "488.a386afd3.chunk.js.map": "/bpocsts-game/static/js/488.a386afd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.590894cc.js"
+    "static/js/main.9e443fea.js"
   ]
 }
